@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MPHolublab4</string>
+    <string name="Logo">Лабораторна робота №4</string>
+    <string name="btn_done">Виконано</string>
+    <string name="btn_almost">Майже виконано</string>
+    <string name="btn_not_done">Не виконано</string>
 </resources>
